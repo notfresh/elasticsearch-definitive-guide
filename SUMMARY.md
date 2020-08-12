@@ -6,7 +6,7 @@
    * [安装](getting_started/installing_es.md)
    * [API](getting_started/api.md)
    * [面向文档和以JSON序列化](getting_started/document.md)
-   * [索引-开始实战-感性认识第一步](getting_started/tutorial_indexing.md)
+   * [索引-开始实战-感性认识第一步-curl之put,get](getting_started/tutorial_indexing.md)
    * [搜索](getting_started/tutorial_search.md)
    * [汇总](getting_started/tutorial_aggregations.md)
    * [小结](getting_started/tutorial_conclusion.md)
